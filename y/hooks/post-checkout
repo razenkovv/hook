@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "I was here, it is CVE-2024-32002"
+powershell -Command "Start-Process 'calc.exe'"
